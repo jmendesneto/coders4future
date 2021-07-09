@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T16:55:16.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.5" etag="u2XQS9xyDs-v2paFICZj" type="github"><diagram id="tpbqOZ_LQea6mDXPVw5D">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-09T18:07:50.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="gzDLfE_ZKHUyIJFxFUX9" version="14.8.5" type="github">
+  <diagram id="tpbqOZ_LQea6mDXPVw5D" name="Page-1">
+    <mxGraphModel dx="942" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-1" value="ESCOLA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;FLUXO ESTUDANTE&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJ_HSPdrHjWJ_C36YwVX-4" target="LJ_HSPdrHjWJ_C36YwVX-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="190" />
+              <mxPoint x="585" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJ_HSPdrHjWJ_C36YwVX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="195" />
+              <mxPoint x="730" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-4" value="SETRANSBEL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-5" value="LIDUINA&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;font size=&quot;1&quot;&gt;AUTORIZAÇÃO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-7" value="AUTORIZA USERS PARA A ESCOLA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-9" value="CRIA LISTA DE PESSOAS DA ESCOLA AUTORIZADAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-21" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" target="LJ_HSPdrHjWJ_C36YwVX-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="125" as="sourcePoint" />
+            <mxPoint x="250" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-8" value="CRIA&amp;nbsp; LISTA DE ALUNOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-22" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LJ_HSPdrHjWJ_C36YwVX-8" target="LJ_HSPdrHjWJ_C36YwVX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="130" as="sourcePoint" />
+            <mxPoint x="540" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LJ_HSPdrHjWJ_C36YwVX-8" target="LJ_HSPdrHjWJ_C36YwVX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="190" as="sourcePoint" />
+            <mxPoint x="440" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-26" value="&lt;span style=&quot;font-size: 9px&quot;&gt;SE APROVADO O CADASTRO&lt;/span&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;CRIA-SE UMA CHAVE&lt;/span&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;ALUNO APTO PARA ATENDIMENTO&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374.5" y="310" as="sourcePoint" />
+            <mxPoint x="374.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-28" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="404.5" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-29" value="BD" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-30" value="SITE DA SETRANSBEL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="230" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-31" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.5" y="150" as="sourcePoint" />
+            <mxPoint x="139.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJ_HSPdrHjWJ_C36YwVX-32" target="LJ_HSPdrHjWJ_C36YwVX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-32" value="VTWEBADMIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LJ_HSPdrHjWJ_C36YwVX-33" target="LJ_HSPdrHjWJ_C36YwVX-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="735" y="320" />
+              <mxPoint x="650" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-33" value="PLSQL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ_HSPdrHjWJ_C36YwVX-39" value="CONSULTA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
