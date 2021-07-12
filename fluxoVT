@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T17:34:03.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="vcOhDRFNuwDF3E4Ep_kn" version="14.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-12T17:52:29.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="o01sJdgIq4Do8E6Yx6YO" version="14.8.5" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1769" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,9 +169,6 @@
         </mxCell>
         <mxCell id="o4GZK6QA8yR1ceRj2kVO-36" value="Usuário&amp;nbsp; recebe cartão" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;strokeColor=#000000;" vertex="1" parent="sFGzkMyFqXn1b9whj60C-1">
           <mxGeometry x="530" y="510" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="o4GZK6QA8yR1ceRj2kVO-37" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFGzkMyFqXn1b9whj60C-1">
-          <mxGeometry x="770" y="360" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o4GZK6QA8yR1ceRj2kVO-39" value="ATENDIMENTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sFGzkMyFqXn1b9whj60C-1">
           <mxGeometry x="545" y="110" width="110" height="40" as="geometry" />
